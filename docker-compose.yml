@@ -3,5 +3,9 @@ services:
   cv-httpd:
     build: .
     restart: unless-stopped
-    ports:
-      - 3000:80
+    networks:
+      - net-cv-httpd
+
+networks:
+  net-cv-httpd:
+    external: true
