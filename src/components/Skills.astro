@@ -1,0 +1,62 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="recycle" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>De musicien à Développeur</h2>
+		<p>L'univers de la musique classique demande rigueur et assiduité, j'ai transféré cette même discipline dans mon parcours de développeur backend, m'ouvrant ainsi les portes du monde numérique avec ma petite touche artistique !</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="users-four" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>L'esprit d'équipe</h2>
+		<p>Au sein de l'orchestre, chaque musicien contribue à une harmonie collective et l'esprit de corps au sein de l'armée unit les individus dans une mission commune, mêlant talent individuel et solidarité pour atteindre un objectif partagé.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="medal-military" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Carrière militaire</h2>
+		<p>Durant ma carrière de militaire, j'ai occupé différents postes qui ont mis en lumière mon agilité face à des responsabilités changeantes et mon habileté à acquérir de nouvelles compétences de manière autonome afin d'atteindre efficacement les objectifs fixés.</p>
+	</div>
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>

@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  cv-httpd:
+    build: .
+    restart: unless-stopped
+    ports:
+      - 3000:80
