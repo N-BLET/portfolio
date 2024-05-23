@@ -12,12 +12,12 @@ tags:
 ---
 
 
-## Projet de site pour un atelier de réparation d'instruments
+## Projet de site pour un atelier de réparation d'instruments 🎺
 
-### <font color="purple">Présentation du site</font>
+### <font color="purple">Présentation du site</font> 📝
 Le domaine fonctionnel choisi pour réaliser ce travail s’est porté sur la conception et la réalisation d’un site pour un atelier de réparation de clarinettes. Cette structure correspondrait à une micro-entreprise. L’atelier serait au domicile du luthier et il travaillerait avec sa femme. Afin d’élargir son réseau et de développer son activité, cet établissement aurait besoin d’un site répondant aux besoins de leur clientèle mais également aux leurs.
 
-### <font color="purple">Architecture du site</font>
+### <font color="purple">Architecture du site</font> 🏗️
 Afin de répondre aux mieux à l’attente et après réflexion, l’architecture du site s’articulerait en 3 parties :
    - Une page web accessible à tous présentant l’atelier, son équipe et les services proposés
    - Un espace administrateur où la gestion de l’entreprise serait faite
@@ -29,7 +29,7 @@ Afin de répondre aux mieux à l’attente et après réflexion, l’architectur
    
    La dernière partie offre la possibilité au client de retrouver toutes les infos dont ils pourraient avoir besoin, son profil client, l’historique de son instrument (date d’achat et les différents entretiens effectués), ou bien encore ses contrats de locations (date de fin de location, tarif…). Afin de bien se repérer dans les différents espaces de ce site, quelques modifications ont été apportées sur le design (au niveau du header).
 
-### <font color="purple">Les différentes fonctionnalités mises en place</font>
+### <font color="purple">Les différentes fonctionnalités mises en place</font> ⚙️
 Les fonctionnalités mises en place sont :
    - Une inscription
    - Une authentification
@@ -42,6 +42,8 @@ Les fonctionnalités mises en place sont :
    - La gestion de deux profils (administrateur et client)
 
 ### <font color="purple">Liens</font> 🔗
-- [Lien vers le repo GitHub](https://github.com/N-BLET/Site_ADC/)
-- [Lien vers le site](https://site-adc.nicolasblet.fr)
-- [Lien vers une vidéo de présentation]()
+🌐 - <a href="https://site-adc.nicolasblet.fr" target="_blank">Lien vers le site</a>
+
+🎥 - <a href="" target="_blank">Lien de la vidéo de présentation du site en ligne</a>
+
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub" width="15" height="15"> - <a href="https://github.com/N-BLET/Site_ADC/" target="_blank">Lien vers le repository GitHub du site</a>

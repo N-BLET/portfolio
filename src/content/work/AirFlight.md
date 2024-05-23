@@ -16,7 +16,7 @@ tags:
 Ce projet consiste en une application de bureau développée en C# permettant de gérer des vols d'avion.
 L'application offre une interface utilisateur conviviale pour créer, modifier, afficher et supprimer des villes et des vols.
 
-### <font color="purple">Fonctionnalités</font>
+### <font color="purple">Fonctionnalités</font> ⚙️
 
 #### Gestion des villes : 🌇
 - Création de nouvelles villes
@@ -41,5 +41,6 @@ L'application offre une interface utilisateur conviviale pour créer, modifier, 
 4. Pour relier un vol à une ville, sélectionnez le vol et choisissez les villes de départ et d'arrivée correspondantes.
 
 ### <font color="purple">Liens</font> 🔗
-- [Lien vers le repo GitHub](https://github.com/N-BLET/TdCDA/)
-- [Lien vers une vidéo de présentation](https://1drv.ms/v/s!Anvag74D4iR_p0AL4Q9AFKY12rvy?e=xWo5qI)
+🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_p0AL4Q9AFKY12rvy?e=xWo5qI" target="_blank">Lien de la vidéo de présentation de l'application</a>
+
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub" width="15" height="15"> - [Lien vers le repository GitHub de l'application](https://github.com/N-BLET/TdCDA/)

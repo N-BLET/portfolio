@@ -58,7 +58,11 @@ Rien de très original, je voulais reprendre exactement l’idée de la page 214
  malheureusement je n’ai pas réussi à percer le mystère.  
 
 ### <font color="purple">Liens</font> 🔗
-- [Vidéo du visuel de la page modifiée](https://1drv.ms/v/s!Anvag74D4iR_p0eb8_RZtroT4qqv?e=WKvoRD)</br></br>
+
+🌐 - <a href="https://n-blet.github.io/CSSZenGarden/" target="_blank">Lien vers le visuel de la page modifiée en ligne</a></br>
 *À titre indicatif, ma résolution d’écran est de : ‘1920 x 1080’. </br>Le lien ci-dessous vous donnera un aperçu de mon travail.*
 
-- [Visuel de la page modifiée en ligne](https://n-blet.github.io/CSSZenGarden/)
+🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_p0eb8_RZtroT4qqv?e=WKvoRD" target="_blank">Lien de la vidéo du visuel de la page modifiée</a>
+
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub" width="15" height="15"> - <a href="https://github.com/N-BLET/CSSZenGarden" target="_blank">Lien vers le repository GitHub de la page</a>
+
