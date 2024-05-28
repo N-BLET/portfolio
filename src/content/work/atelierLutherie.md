@@ -1,6 +1,6 @@
 ---
 title: Atelier des clarinettes
-publishDate: 2021-06-15 00:00:00
+publishDate: 2024-05-15 00:00:00
 img: /assets/atelierLutherie.jpg
 img_alt: Page d'accueil du site
 description: |
