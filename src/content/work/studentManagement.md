@@ -25,6 +25,7 @@ L'architecture N-tiers pour une application web offre plusieurs avantages clés 
 
 
 <a href="https://github.com/N-BLET/ArchiNtier/blob/main/SchemaArchi/ArchitNtiersSite.pdf" target="_blank">Schéma de l'architecture du site</a>
+<a href="https://github.com/N-BLET/ArchiNtier/blob/main/SchemaArchi/ArchitNtiersSite.pdf" target="_blank">Schéma de l'architecture du site</a>
 
 ### <font color="purple">Fonctionnalités</font> ⚙️
 
@@ -33,6 +34,10 @@ L'architecture N-tiers pour une application web offre plusieurs avantages clés 
   - Modification des informations des élèves existants
   - Affichage de la liste des élèves
   - Suppression des élèves
+
+### <font color="purple">API Web</font> 🌐
+
+Pour compléter l'application de gestion des élèves, j'ai développé une API Web en ASP.NET Core. Cette API permet d'accéder aux données des élèves via des endpoints RESTful, facilitant ainsi l'intégration avec d'autres systèmes ou applications. Grâce à cette API, les opérations CRUD (Create, Read, Update, Delete) peuvent être effectuées de manière sécurisée et efficace, améliorant l'interopérabilité et offrant une flexibilité accrue pour l'accès aux données. L'API est construite en respectant les meilleures pratiques en termes de sécurité et de performance, garantissant une communication fluide et sécurisée avec la base de données. De plus, la documentation interactive de l'API est disponible via Swagger, permettant aux développeurs de tester facilement les différentes fonctionnalités offertes par l'API.
 
 ### <font color="purple">API Web</font> 🌐
 
