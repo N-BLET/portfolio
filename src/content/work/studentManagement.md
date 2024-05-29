@@ -23,10 +23,6 @@ L'architecture N-tiers pour une application web offre plusieurs avantages clés 
 
 <a href="https://github.com/N-BLET/ArchiNtier/blob/main/SchemaArchi/ArchitNtiersSite.pdf" target="_blank">Schéma de l'architecture du site</a>
 
-
-<a href="https://github.com/N-BLET/ArchiNtier/blob/main/SchemaArchi/ArchitNtiersSite.pdf" target="_blank">Schéma de l'architecture du site</a>
-<a href="https://github.com/N-BLET/ArchiNtier/blob/main/SchemaArchi/ArchitNtiersSite.pdf" target="_blank">Schéma de l'architecture du site</a>
-
 ### <font color="purple">Fonctionnalités</font> ⚙️
 
 - **Gestion des élèves :**
