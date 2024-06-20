@@ -27,7 +27,7 @@ Pour générer le fichier `resume.json` à partir de votre profil LinkedIn, vous
 
 ### <font color="purple">Intégration et Déploiement Continus (CI/CD)</font> 🚀
 
-Pour aller plus loin dans le principe d'automatisation, j'ai également mis en place un GitHub Action. Ainsi l'intégration et le déploiement se font automatiqauement.
+Pour aller plus loin dans le principe d'automatisation, j'ai également mis en place un GitHub Action. Ainsi l'intégration et le déploiement se font automatiquement.
 
 1. **Fichier de configuration GitHub Actions** :
 
@@ -35,10 +35,10 @@ Pour aller plus loin dans le principe d'automatisation, j'ai également mis en p
 
 2. **Récupération du fichier Json** :
 
-   - Je génère en amont mon fichier resume.json. Puis j'execute les différentes étapes pour terminer par le git push qui lance la génération du fichier resume.html qui sera renommé en index.html puis déplacer.
+   - Je génère en amont mon fichier resume.json. Puis j'exécute les différentes étapes pour terminer par le git push qui lance la génération du fichier resume.html qui sera renommé en index.html puis déplacer.
 
 3. **Déploiement automatique** :
-   - Le CV est automatiquement déployé sur une GitHub pages et rediriger grâce au CNAME vers mon VPS à l'adresse suivante cv.nicolasblet.fr
+   - Le CV est automatiquement déployé sur une GitHub pages et redirigé grâce au CNAME vers mon VPS à l'adresse suivante cv.nicolasblet.fr
 
 ### <font color="purple">Structure du fichier JSON</font> 📂
 
@@ -57,7 +57,7 @@ Le fichier `resume.json` suit la structure recommandée par le standard JSON Res
 
 Pour plus de détails sur chaque section, consultez la <a href="https://jsonresume.org/schema/" target="_blank">documentation officielle</a>.
 
-<font color="purple">Liens</font> 🔗
+### <font color="purple">Liens</font> 🔗
 
 🌐 - <a href="https://cv.nicolasblet.fr" target="_blank">Lien vers mon CV en ligne</a>
 
