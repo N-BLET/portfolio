@@ -15,7 +15,6 @@ tags:
 
 Ce projet consiste en une application de bureau développée en C# permettant de gérer des élèves. L'application offre une interface utilisateur conviviale pour créer, modifier, afficher et supprimer des élèves.
 
-
 ### <font color="purple">Architecture</font> 🏗️
 
 L'application est conçue selon une architecture N-tiers, séparant les différentes couches logiques du projet (présentation, logique métier, et accès aux données) pour une meilleure maintenabilité et évolutivité.
@@ -35,11 +34,8 @@ L'architecture N-tiers pour une application web offre plusieurs avantages clés 
 
 Pour compléter l'application de gestion des élèves, j'ai développé une API Web en ASP.NET Core. Cette API permet d'accéder aux données des élèves via des endpoints RESTful, facilitant ainsi l'intégration avec d'autres systèmes ou applications. Grâce à cette API, les opérations CRUD (Create, Read, Update, Delete) peuvent être effectuées de manière sécurisée et efficace, améliorant l'interopérabilité et offrant une flexibilité accrue pour l'accès aux données. L'API est construite en respectant les meilleures pratiques en termes de sécurité et de performance, garantissant une communication fluide et sécurisée avec la base de données. De plus, la documentation interactive de l'API est disponible via Swagger, permettant aux développeurs de tester facilement les différentes fonctionnalités offertes par l'API.
 
-### <font color="purple">API Web</font> 🌐
-
-Pour compléter l'application de gestion des élèves, j'ai développé une API Web en ASP.NET Core. Cette API permet d'accéder aux données des élèves via des endpoints RESTful, facilitant ainsi l'intégration avec d'autres systèmes ou applications. Grâce à cette API, les opérations CRUD (Create, Read, Update, Delete) peuvent être effectuées de manière sécurisée et efficace, améliorant l'interopérabilité et offrant une flexibilité accrue pour l'accès aux données. L'API est construite en respectant les meilleures pratiques en termes de sécurité et de performance, garantissant une communication fluide et sécurisée avec la base de données. De plus, la documentation interactive de l'API est disponible via Swagger, permettant aux développeurs de tester facilement les différentes fonctionnalités offertes par l'API.
-
 ### <font color="purple">Liens</font> 🔗
+
 🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_p3t6EjvUyPuJpDF6?e=ZVzFhX" target="_blank">Lien de la vidéo de présentation de l'application</a>
 
 🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_p3pNrJtzOf6KLuXA?e=6izNYQ" target="_blank">Lien de la vidéo de présentation de l'API Web</a>

@@ -23,7 +23,7 @@ L'objectif est de fournir une représentation structurée et facilement lisible 
 
 ### <font color="purple">Génération du fichier JSON depuis LinkedIn</font> 🔄
 
-Pour générer le fichier `resume.json` à partir de votre profil LinkedIn, vous pouvez utiliser le plugin Chrome <a href="https://chromewebstore.google.com/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec" target="_blank">JSON Resume Exporter</a>. Ce plugin simplifie l'exportation des données de votre profil LinkedIn au format JSON, compatible avec ce projet. Ainsi, vous n'avez plus que votre profil LinkedIn à maintenir à jour et utiliser ce plugin pour générer le fichier Json et ainsi répercuter les modification sur votre CV en ligne.
+Pour générer le fichier `resume.json` à partir de votre profil LinkedIn, vous pouvez utiliser le plugin Chrome <a href="https://chromewebstore.google.com/detail/json-resume-exporter/caobgmmcpklomkcckaenhjlokpmfbdec" target="_blank">JSON Resume Exporter</a>. Ce plugin simplifie l'exportation des données de votre profil LinkedIn au format JSON, compatible avec ce projet. Ainsi, vous n'avez plus que votre profil LinkedIn à maintenir à jour et utiliser ce plugin pour générer le fichier Json et ainsi répercuter les modifications sur votre CV en ligne.
 
 ### <font color="purple">Intégration et Déploiement Continus (CI/CD)</font> 🚀
 
