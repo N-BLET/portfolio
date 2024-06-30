@@ -36,8 +36,8 @@ Pour compléter l'application de gestion des élèves, j'ai développé une API 
 
 ### <font color="purple">Liens</font> 🔗
 
-🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_p3t6EjvUyPuJpDF6?e=ZVzFhX" target="_blank">Lien de la vidéo de présentation de l'application</a>
+🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_qCLzYqI4kW4RTedZ" target="_blank">Lien de la vidéo de présentation de l'application</a>
 
-🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_p3pNrJtzOf6KLuXA?e=6izNYQ" target="_blank">Lien de la vidéo de présentation de l'API Web</a>
+🎥 - <a href="https://1drv.ms/v/s!Anvag74D4iR_qCPgQ1HPZ-X_MdEm" target="_blank">Lien de la vidéo de présentation de l'API Web</a>
 
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub" width="15" height="15"> - <a href="https://github.com/N-BLET/TdCDA/" target="_blank">Lien vers le repository GitHub du l'application</a>
