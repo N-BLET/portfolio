@@ -20,7 +20,7 @@ Le lien ci-dessus vous redirigera vers le site CSSZenGarden. Ce site propose un 
 
 Le choix de ma thématique s’est porté sur l’envie d’un réparateur de clarinette de mettre en avant le travail de ses prédécesseurs. À titre d’information, les photos ont été prises durant les années 1880 dans nos usines françaises situées en région parisienne plus précisément à Mantes La Ville.
 
-### <font color="purple">Structure de la page</font>
+### <font color="purple">Structure de la page</font> 🏗️
 
 Ma page est structurée en 4 parties :
 

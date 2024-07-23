@@ -1,6 +1,6 @@
 ---
 title: Arosa-je
-publishDate: 2024-03-03 00:00:00
+publishDate: 2024-07-03 00:00:00
 img: /assets/arosaje.png
 img_alt: Image de présentation d'Arosa-je
 description: |
