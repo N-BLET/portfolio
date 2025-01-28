@@ -1,150 +1,177 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
 
-import ContactCTA from '../components/ContactCTA.astro';
-import Hero from '../components/Hero.astro';
+import ContactCTA from "../components/ContactCTA.astro";
+import Hero from "../components/Hero.astro";
 ---
 
-<BaseLayout title="À propos | Nicolas BLET" description="Informations sur Nicolas BLET">
-	<div class="stack gap-20">
-		<main class="wrapper about">
-			<Hero
-				title="À propos"
-				tagline="Merci de votre visite. N'hésitez pas à lire ces quelques informations complémentaires sur moi et mon parcours."
-			>
-				<img
-					width="1553"
-					height="873"
-					src="/assets/portrait2.jpg"
-					alt="Jeanine White at work with a colleague"
-				/>
-			</Hero>
+<BaseLayout
+  title="À propos | Nicolas BLET"
+  description="Informations sur Nicolas BLET"
+>
+  <div class="stack gap-20">
+    <main class="wrapper about">
+      <Hero
+        title="À propos"
+        tagline="Merci de votre visite. N'hésitez pas à lire ces quelques informations complémentaires sur moi et mon parcours."
+      >
+        <img
+          width="1553"
+          height="873"
+          src="/assets/portrait2.jpg"
+          alt="Portrait de Nicolas BLET"
+        />
+      </Hero>
 
-			<section>
-				<h2 class="section-title">Ma situation</h2>
-				<div class="content">
-					<p class="aboutParagraph">
-						Actuellement en alternance chez Forterro au sein de la filiale Abas-France,
-						 je contribue à l'intégration de l'ERP du même nom. Cette expérience en alternance
-						 constitue une étape cruciale dans ma reconversion professionnelle visant à obtenir
-						 mon Bachelor (bac+3), me permettant ainsi d'élargir mes compétences tant en développement
-						 (langage Java) qu'en approche métier.
-					</p>
-				</div>
-			</section>
-			<section>
-				<h2 class="section-title">Mon parcours professionnel</h2>
-				<div class="content">
-					<p class="aboutParagraph">
-						Au cours de mes 17 années en tant que musicien professionnel au sein de divers orchestres militaires,
-						j'ai occupé plusieurs postes à responsabilités. En qualité de responsable informatique,
-						j'ai dirigé la gestion du parc informatique, acquérant ainsi une compréhension approfondie des besoins
-						des utilisateurs et des procédures pour y répondre. Parallèlement, en tant que gestionnaire du parc instrumental
-						d’une valeur de 900 000€, j'ai supervisé la réorganisation et l'optimisation du parc, démontrant ma créativité,
-						ma méthodologie et ma capacité à développer des outils informatiques. Enfin, en tant que chef d'une équipe de 10 personnes,
-						j'ai acquis une solide expérience en leadership, en animation d'équipe et en répartition des missions, compétences qui seront
-						un atout précieux pour collaborer efficacement au sein d’une équipe de développement.</br>
-						À côtés de mon activité de musicien militaire, j'ai également été professeur de clarinette dans différents conservatoires,
-						où j'ai partagé ma passion et transmis mes connaissances à de nombreux élèves.
-					</p>
-				</div>
-			</section>
-			<section>
-				<h2 class="section-title">Ma reconversion</h2>
-				<div class="content">
-					<p class="aboutParagraph">
-						Pour préparer ma transition professionnelle vers le métier d'informaticien, j'ai entamé en janvier 2020 une formation
-						en dehors de mes heures de travail au CNAM pour devenir technicien développeur. Cette formation m’a permis d’obtenir
-						mon titre professionnel de niveau 5 (bac +2), reconnu par l'État. Dans le cadre de cette démarche, et afin de finaliser
-						le travail entamé en tant que gestionnaire, j'ai été désigné chef de projet pour superviser la conception et la mise en
-						place d'un progiciel développé avec Symfony à l’échelle nationale, consolidant ainsi mes compétences techniques et ma
-						capacité à mener des projets à bien.
-					</p>
-				</div>
-			</section>
-			<section>
-				<h2 class="section-title">Mes diplômes</h2>
-				<div class="content">
-					<ul>
-						<li>
-							RNCP Niv.5 Technicien développeur - CNAM
-						</li>
-						<li>
-							RNCP Niv.6 (Bac+4) - Musicien d’orchestre
-						</li>
-						<li>
-							Diplôme d’État de professeur de clarinette
-						</li>
-						<li>
-							Baccalauréat Scientifique
-						</li>
-					</ul>
-				</div>
-			</section>
-		</main>
+      <section>
+        <h2 class="section-title">Ma situation</h2>
+        <div class="content">
+          <p class="aboutParagraph">
+            Développeur chez <strong>Active Développement</strong>, je travaille
+            sur des projets variés en utilisant principalement la plateforme <strong
+              >FileMaker</strong
+            >. Mon rôle au sein de cette entreprise dynamique m’offre
+            l’opportunité de développer des solutions sur mesure pour répondre
+            aux besoins spécifiques de nos clients, tout en enrichissant
+            continuellement mes compétences techniques. Passionné par le
+            développement et l’optimisation des processus métier, je suis
+            pleinement engagé dans ma montée en compétences dans l’univers de
+            l’IT.
+          </p>
+        </div>
+      </section>
 
-		<ContactCTA />
-	</div>
+      <section>
+        <h2 class="section-title">Mon parcours professionnel</h2>
+        <div class="content">
+          <p class="aboutParagraph">
+            Au cours de mes 17 années en tant que musicien professionnel au sein
+            de divers orchestres militaires, j'ai occupé plusieurs postes à
+            responsabilités :
+          </p>
+          <ul>
+            <li>
+              <strong>Responsable informatique</strong> : Gestion d’un parc informatique
+              en répondant aux besoins des utilisateurs, tout en respectant les procédures
+              internes.
+            </li>
+            <li>
+              <strong>Gestionnaire de parc instrumental</strong> : Supervision et
+              optimisation d’un parc instrumental de 900 000 €, démontrant méthodologie,
+              créativité et développement d’outils numériques.
+            </li>
+            <li>
+              <strong>Chef d’équipe</strong> : Encadrement d’une équipe de 10 personnes,
+              avec une forte expérience en leadership, gestion des missions et collaboration.
+            </li>
+          </ul>
+          <p class="aboutParagraph">
+            Parallèlement, j’ai été professeur de clarinette dans différents
+            conservatoires, partageant ma passion et transmettant mes
+            connaissances à de nombreux élèves.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Ma reconversion</h2>
+        <div class="content">
+          <p class="aboutParagraph">
+            Pour accompagner ma reconversion professionnelle, j'ai débuté en
+            janvier 2020 une formation au CNAM qui m’a permis d’obtenir le titre
+            de technicien développeur (RNCP Niv. 5). Par la suite, en tant que
+            chef de projet, j’ai dirigé l’élaboration et la conception, avec une
+            équipe de 5 développeurs, d’un progiciel destiné au <strong
+              >ministère des Armées</strong
+            >. Ce progiciel, basé sur une stack incluant le Framework <strong
+              >Symfony</strong
+            >, l’ORM Doctrine, le moteur de template Twig et le template DSFR,
+            permet la gestion du parc instrumental des orchestres militaires à
+            l’échelle nationale. Cette expérience a renforcé mes compétences en
+            gestion de projet et en développement d’outils métier robustes.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Mes diplômes</h2>
+        <div class="content">
+          <ul>
+            <li>RNCP Niv.6 Concepteur, développeur d'applications - EPSI</li>
+            <li>
+              RNCP Niv.5 Concepteur, développeur de solutions informatiques -
+              CNAM
+            </li>
+            <li>RNCP Niv.6 (Bac+4) - Musicien d’orchestre</li>
+            <li>Diplôme d’État de professeur de clarinette</li>
+            <li>Baccalauréat Scientifique</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <ContactCTA />
+  </div>
 </BaseLayout>
 
 <style>
-	.about {
-		display: flex;
-		flex-direction: column;
-		gap: 3.5rem;
-	}
+  .about {
+    display: flex;
+    flex-direction: column;
+    gap: 3.5rem;
+  }
 
-	img {
-		margin-top: 1.5rem;
-		border-radius: 1.5rem;
-		box-shadow: var(--shadow-md);
-	}
+  img {
+    margin-top: 1.5rem;
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow-md);
+  }
 
-	section {
-		display: flex;
-		flex-direction: column;
-		gap: 0.5rem;
-		color: var(--gray-200);
-	}
+  section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    color: var(--gray-200);
+  }
 
-	.section-title {
-		grid-column-start: 1;
-		font-size: var(--text-xl);
-		color: var(--gray-0);
-	}
+  .section-title {
+    grid-column-start: 1;
+    font-size: var(--text-xl);
+    color: var(--gray-0);
+  }
 
-	.content {
-		grid-column: 2 / 4;
-	}
+  .content {
+    grid-column: 2 / 4;
+  }
 
-	.content :global(a) {
-		text-decoration: 1px solid underline transparent;
-		text-underline-offset: 0.25em;
-		transition: text-decoration-color var(--theme-transition);
-	}
+  .content :global(a) {
+    text-decoration: 1px solid underline transparent;
+    text-underline-offset: 0.25em;
+    transition: text-decoration-color var(--theme-transition);
+  }
 
-	.content :global(a:hover),
-	.content :global(a:focus) {
-		text-decoration-color: currentColor;
-	}
+  .content :global(a:hover),
+  .content :global(a:focus) {
+    text-decoration-color: currentColor;
+  }
 
-	.aboutParagraph{
-		text-align: justify;
-	}
+  .aboutParagraph {
+    text-align: justify;
+  }
 
-	@media (min-width: 50em) {
-		.about {
-			display: grid;
-			grid-template-columns: 1fr 60% 1fr;
-		}
+  @media (min-width: 50em) {
+    .about {
+      display: grid;
+      grid-template-columns: 1fr 60% 1fr;
+    }
 
-		.about > :global(:first-child) {
-			grid-column-start: 2;
-		}
+    .about > :global(:first-child) {
+      grid-column-start: 2;
+    }
 
-		section {
-			display: contents;
-			font-size: var(--text-lg);
-		}
-	}
+    section {
+      display: contents;
+      font-size: var(--text-lg);
+    }
+  }
 </style>
