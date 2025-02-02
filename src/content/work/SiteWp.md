@@ -57,4 +57,6 @@ Le footer regroupe les informations essentielles de contact et les liens vers le
 
 ### <font color="purple">Liens</font> 🔗
 
-🌐 - <a href="https://testblet.go.yj.fr" target="_blank">Lien vers le site WordPress en ligne</a>
+🌐 - <a href="https://www.figma.com/design/z577l0sEm9inh2t81JetRP/Test_Dev-Pilot'in?node-id=6082-91978&t=ybliH0YscyudqMCt-1" target="_blank">Lien vers le figma de ce site WordPress</a>
+
+🎥 - <a href="https://www.loom.com/share/2735e92fc5884ed58d017783681a7bee" target="_blank">Lien de la vidéo de présentation des attentes front du site</a>
